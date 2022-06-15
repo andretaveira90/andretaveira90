@@ -1,4 +1,4 @@
-### Olá Mundo! Sou o André Taveira. Um amante de ciências, tecnologia e rock'n'roll.
+### Olá Mundo! Sou o André Taveira. Um amante das ciências, tecnologia e rock'n'roll.
 
 
 <div align="center">
