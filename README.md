@@ -1,11 +1,12 @@
 
 ### Olá Mundo! Sou o André Taveira. Um amante das ciências, tecnologia e rock'n'roll.
 
+- Programador em início de carreira, trabalhando profissionalmente com desenvolvimento para desktop com Visual Basic .Net
+- Nas horas vagas, para saciar a curiosidade, me aventuro por outras linguagens como Java e C#
+- Possuo uma pequena base em HTML, CSS e Javascript, mas minha paixão é mesmo pelo backend
 
-<div align="center">
-  <a href="https://github.com/andretaveira90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andretaveira90&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+
 
 
 
