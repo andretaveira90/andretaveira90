@@ -2,13 +2,6 @@
 ### Olá Mundo! Sou o André Taveira. Um amante das ciências, tecnologia e rock'n'roll.
 
 - Programador em início de carreira, trabalhando profissionalmente com desenvolvimento para desktop com Visual Basic .Net
-- Nas horas vagas, para saciar a curiosidade, me aventuro por outras linguagens como Java e C#
-- Possuo uma pequena base em HTML, CSS e Javascript, mas minha paixão é mesmo pelo backend
-
-
-
-
-
 
 ##
 ### Redes sociais
