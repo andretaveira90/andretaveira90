@@ -1,8 +1,6 @@
 
 ### Olá Mundo! Sou o André Taveira. Um amante das ciências, tecnologia e rock'n'roll.
 
-- Programador em início de carreira, trabalhando profissionalmente com desenvolvimento para desktop com Visual Basic .Net
-
 ##
 ### Redes sociais
 <div>
