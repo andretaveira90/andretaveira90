@@ -1,5 +1,5 @@
 
-### Olá Mundo! Sou o André Taveira. Um amante das ciências, tecnologia e rock'n'roll.
+### Olá Mundo!
 ##
 ### Redes sociais
 <div>
